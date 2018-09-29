@@ -1,4 +1,5 @@
 Run the following to install
+Version 1.0.0
 
 python setup.py install 
 
